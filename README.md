@@ -1,0 +1,1 @@
+Designed and implemented a Java-based, grid-driven strategy game inspired by Battleship, featuring a two-dimensional ocean grid, randomly/manually placed creatures of varying shapes and sizes, turn-based gameplay logic, scoring, and save/load functionality via file persistence.
